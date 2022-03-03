@@ -1,5 +1,4 @@
 #Planeter
-
 - Carl - Venus
 ...
 
@@ -20,6 +19,3 @@ Billede af den: https://da.wikipedia.org/wiki/Jupiter_(planet)
 
 - Benjamin - Uranus
 ...
-
-
-
