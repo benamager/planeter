@@ -25,6 +25,8 @@ Percival Lowell begyndte i 1905 at lede efter Planet X. Han var overbevist om, a
   Billede af den: https://da.wikipedia.org/wiki/Jupiter_(planet)
 
 - Simon - Merkur
+ 
+  Merkur er den første. Numero Uno. The Messenger. Og lillebitte.
   ...
 
 - Benjamin - Uranus
